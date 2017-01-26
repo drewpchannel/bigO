@@ -1,0 +1,6 @@
+c:\users\d\documents\visual studio 2015\Projects\testbig0\testbig0\bin\Debug\testbig0.exe.config
+c:\users\d\documents\visual studio 2015\Projects\testbig0\testbig0\obj\Debug\testbig0.csprojResolveAssemblyReference.cache
+c:\users\d\documents\visual studio 2015\Projects\testbig0\testbig0\bin\Debug\testbig0.exe
+c:\users\d\documents\visual studio 2015\Projects\testbig0\testbig0\bin\Debug\testbig0.pdb
+c:\users\d\documents\visual studio 2015\Projects\testbig0\testbig0\obj\Debug\testbig0.exe
+c:\users\d\documents\visual studio 2015\Projects\testbig0\testbig0\obj\Debug\testbig0.pdb
